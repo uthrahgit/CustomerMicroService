@@ -1,2 +1,8 @@
-# CustomerMicroService
-Microservice which implements Customer
+This project demostrates the micro services using Spring boot
+
+# CustomerMicroService 
+
+# ProductMicroService
+
+# OrderMicroService
+
